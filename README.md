@@ -106,19 +106,6 @@ This project helps develop:
 
 ---
 
-## 📷 Preview
-
-Add screenshots of your completed workbook here:
-
-```text
-screenshots/
-├── students-grade.png
-├── sales-data.png
-└── employee-data.png
-```
-
----
-
 ## 👨‍💻 Author
 
 **Yash Patel**
